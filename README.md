@@ -1,4 +1,4 @@
-###A Whale Off the Port(folio)
+# A Whale Off the Port(folio)
 
 ![Portfolio Analysis](Images/portfolio-analysis.png)
 
